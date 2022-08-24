@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I am Orjada 👋
 
 <!--
 **orjadamucollari/orjadamucollari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I have studied Mathematics and Computer Engineering and completed a Bachelor and Master of Science in the field.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently taking part in a full-time 15 week datascience bootcamp at the WBS - Coding School
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

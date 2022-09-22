@@ -15,5 +15,11 @@ I have studied Mathematics and Computer Engineering and completed a Bachelor and
 - ⚡ Fun fact: ...
 -->
 
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+www.linkedin.com/in/orjada-muçollari
+
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)  
 https://medium.com/@orjadamucollari
+

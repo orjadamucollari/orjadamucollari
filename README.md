@@ -23,3 +23,6 @@ www.linkedin.com/in/orjada-muçollari
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)  
 https://medium.com/@orjadamucollari
 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+orjadamucollari@gmail.com

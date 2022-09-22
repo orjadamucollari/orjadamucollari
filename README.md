@@ -14,3 +14,6 @@ I have studied Mathematics and Computer Engineering and completed a Bachelor and
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)  
+https://medium.com/@orjadamucollari
